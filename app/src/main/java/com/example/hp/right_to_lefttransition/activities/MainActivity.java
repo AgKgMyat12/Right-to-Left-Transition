@@ -76,5 +76,8 @@ public class MainActivity extends AppCompatActivity {
             coordinatorLayout.startAnimation(ScaleUpAndTranslate);
             drawerLayout.closeDrawer(GravityCompat.END);
         }
+        else{
+            super.onBackPressed();
+        }
     }
 }
