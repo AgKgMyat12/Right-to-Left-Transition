@@ -16,7 +16,7 @@ import android.view.animation.AnimationUtils;
 
 import com.example.hp.right_to_lefttransition.R;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseActivity {
 
     Animation ScaleDownAndTranslate;
     Animation ScaleUpAndTranslate;
