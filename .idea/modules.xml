@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Right-to-Left Transition.iml" filepath="$PROJECT_DIR$/Right-to-Left Transition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Right_to_left_transition.iml" filepath="$PROJECT_DIR$/Right_to_left_transition.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
